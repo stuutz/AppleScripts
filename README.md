@@ -1,2 +1,2 @@
 # AppleScripts
-A collection of AppleScripts
+collection of AppleScripts
